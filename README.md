@@ -37,13 +37,8 @@ N.B: Care of the user interface and user experience is important.
 # final result :
 
 ## in mobile :
-
-<video style="width:40vh;" controls>
-<source src="mobile mockup.mp4" type="video/mp4">
-</video>
-
+<a href="https://xd.adobe.com/view/55bf9a4c-f69a-4bb8-a990-5fe448f7dd63-00ec/">click here to Preview</a>
 ## in Desktop :
 
-<video style="width:40vh;" controls>
-<source src="Desktop mockup.mp4" type="video/mp4">
-</video>
+
+<a href="https://xd.adobe.com/view/55bf9a4c-f69a-4bb8-a990-5fe448f7dd63-00ec/">click here to Preview</a>
